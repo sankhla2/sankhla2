@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Renu, a junior at IIT Jodhpur. My interests are Web Development and Software Development. I'm currently learning Drupal and cloud computing.
+Hey! I'm Renu, a junior at IIT Jodhpur. My interests are Web Development and Software Development. I'm currently exploring Drupal and cloud computing.
 
 
 ## 🌐 Socials:
